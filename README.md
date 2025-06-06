@@ -22,7 +22,7 @@ The Imperva Cloud WAF Codeless Connector for Microsoft Sentinel enables seamless
 <a name = "template">
   
 ## Deploy the Cloud Formation Templates
-- Download the [OIDC Web Identity Provider]() Template and the [AWS Resource Creation]() Template provided in this repository.
+- Download the [OIDC Web Identity Provider]() Template and the [AWS Resource Creation](https://github.com/v-pmalreddy/Imperva/blob/main/ImpervaCloudWAFConfig.json) Template provided in this repository.
 - Open the **AWS Management Console** and navigate to the **CloudFormation** service.
 - Click on **"Create stack"** and choose **"With new resources (standard)"**.
 - Under the **Specify template** section, select **"Upload a template file"**, and upload the appropriate CloudFormation template (starting with the OIDC template).
